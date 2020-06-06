@@ -1,0 +1,9 @@
+/bin
+/obj
+/.vs
+/src/SmsService.API/obj
+/src/SmsService.API/bin
+/src/SmsService.DAL/obj
+/src/SmsService.DAL/bin
+/src/SmsService.Services/bin
+/src/SmsService.Services/obj
