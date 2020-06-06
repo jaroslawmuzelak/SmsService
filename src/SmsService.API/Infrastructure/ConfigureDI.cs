@@ -1,4 +1,6 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Logging;
+using NLog;
 using SmsService.Model;
 using SmsService.Services.Integrations;
 using SmsService.Services.Queries;
@@ -19,8 +21,6 @@ namespace SmsService.API.Infrastructure
             services.AddTransient<ICountriesQueries, CountriesQueries>();
             services.AddTransient<ISMSQueries, SMSQueries>();
             services.AddTransient<IStatisticsQueries, StatisticsQueries>();
-
-
 
             return services;
         }

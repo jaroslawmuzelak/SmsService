@@ -14,7 +14,7 @@ services:
 
   smsservice.api:
     volumes:
-      - C:\DockerShared\logs:/var/log/smsservice/
+      - C:\DockerShared\logs:/var/log/smsservice
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
       - ASPNETCORE_URLS=https://+:443;http://+:80

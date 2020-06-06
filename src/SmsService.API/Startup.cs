@@ -41,7 +41,7 @@ namespace WebApplication1
             });
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("SMS API", new Microsoft.OpenApi.Models.OpenApiInfo() { Title = "SMS Service API" });
+                c.SwaggerDoc("api", new Microsoft.OpenApi.Models.OpenApiInfo() { Title = "SMS Service API" });
             });
             services.AddDbContext<SMSContext>(options =>
             {
@@ -61,7 +61,7 @@ namespace WebApplication1
             app.UseSwagger();
             app.UseSwaggerUI(setup =>
             {
-                setup.SwaggerEndpoint("/swagger.json", "Demo");
+                setup.SwaggerEndpoint("api/swagger.json", "Demo");
             });
             app.UseHttpsRedirection();
 

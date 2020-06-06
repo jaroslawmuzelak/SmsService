@@ -23,14 +23,14 @@ namespace SmsService.API.Controllers
 
 
         [HttpGet("/countries.{format}"), FormatFilter]
-        async public Task<IActionResult> GetCountries()
+        async public Task<IActionResult> Get()
         {
             var result = await countriesQueries.GetCountriesAsync();
             return Ok(result);
         }
 
         [HttpGet("/statistics.{format}"), FormatFilter]
-        async public Task<IActionResult> GetStatistics(DateTime dateFrom, DateTime dateTo,[FromQuery] IList<string> mccList)
+        async public Task<IActionResult> Get(DateTime dateFrom, DateTime dateTo,[FromQuery] IList<string> mccList)
         {
             var result = await statisticsQueries.GetStatisticsAsync(dateFrom, dateTo, mccList);
             return Ok(result);
