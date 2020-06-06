@@ -1,0 +1,13 @@
+version: '3.4'
+
+services:
+  mysqldb:
+    image: mysql
+
+  smsservice.api:
+    image: ${DOCKER_REGISTRY-}smsserviceapi
+    depends_on:
+      - mysqldb
+    build:
+      context: .
+      dockerfile: src/SmsService.API/Dockerfile

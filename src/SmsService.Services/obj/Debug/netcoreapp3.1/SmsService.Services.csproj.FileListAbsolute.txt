@@ -1,0 +1,12 @@
+C:\Users\Jarek\Documents\Projects\SmsService\src\SmsService.Services\bin\Debug\netcoreapp3.1\SmsService.Services.deps.json
+C:\Users\Jarek\Documents\Projects\SmsService\src\SmsService.Services\bin\Debug\netcoreapp3.1\SmsService.Services.dll
+C:\Users\Jarek\Documents\Projects\SmsService\src\SmsService.Services\bin\Debug\netcoreapp3.1\SmsService.Services.pdb
+C:\Users\Jarek\Documents\Projects\SmsService\src\SmsService.Services\bin\Debug\netcoreapp3.1\SmsService.Model.dll
+C:\Users\Jarek\Documents\Projects\SmsService\src\SmsService.Services\bin\Debug\netcoreapp3.1\SmsService.Model.pdb
+C:\Users\Jarek\Documents\Projects\SmsService\src\SmsService.Services\obj\Debug\netcoreapp3.1\SmsService.Services.csprojAssemblyReference.cache
+C:\Users\Jarek\Documents\Projects\SmsService\src\SmsService.Services\obj\Debug\netcoreapp3.1\SmsService.Services.AssemblyInfoInputs.cache
+C:\Users\Jarek\Documents\Projects\SmsService\src\SmsService.Services\obj\Debug\netcoreapp3.1\SmsService.Services.AssemblyInfo.cs
+C:\Users\Jarek\Documents\Projects\SmsService\src\SmsService.Services\obj\Debug\netcoreapp3.1\SmsService.Services.csproj.CopyComplete
+C:\Users\Jarek\Documents\Projects\SmsService\src\SmsService.Services\obj\Debug\netcoreapp3.1\SmsService.Services.dll
+C:\Users\Jarek\Documents\Projects\SmsService\src\SmsService.Services\obj\Debug\netcoreapp3.1\SmsService.Services.pdb
+C:\Users\Jarek\Documents\Projects\SmsService\src\SmsService.Services\obj\Debug\netcoreapp3.1\SmsService.Services.csproj.CoreCompileInputs.cache

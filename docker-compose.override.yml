@@ -1,0 +1,27 @@
+version: '3.4'
+
+services:
+  mysqldb:
+    volumes:
+      - C:\DockerShared\mysql:/var/lib/mysql
+    command: --default-authentication-plugin=mysql_native_password
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: sms_service
+    ports:
+      - "3306:3306"
+
+  smsservice.api:
+    volumes:
+      - C:\DockerShared\logs:/var/log/smsservice/
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=https://+:443;http://+:80
+      - ConnectionString=Server=host.docker.internal;Database=sms_service;Uid=root;Pwd=root;
+    ports:
+      - "80:80"
+      - "443"
+    volumes:
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
+      - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro

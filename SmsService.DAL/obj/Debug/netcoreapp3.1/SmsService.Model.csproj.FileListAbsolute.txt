@@ -1,0 +1,11 @@
+C:\Users\Jarek\Documents\Projects\SmsService\SmsService.DAL\bin\Debug\netcoreapp3.1\SmsService.Model.deps.json
+C:\Users\Jarek\Documents\Projects\SmsService\SmsService.DAL\bin\Debug\netcoreapp3.1\SmsService.Model.runtimeconfig.json
+C:\Users\Jarek\Documents\Projects\SmsService\SmsService.DAL\bin\Debug\netcoreapp3.1\SmsService.Model.runtimeconfig.dev.json
+C:\Users\Jarek\Documents\Projects\SmsService\SmsService.DAL\bin\Debug\netcoreapp3.1\SmsService.Model.dll
+C:\Users\Jarek\Documents\Projects\SmsService\SmsService.DAL\bin\Debug\netcoreapp3.1\SmsService.Model.pdb
+C:\Users\Jarek\Documents\Projects\SmsService\SmsService.DAL\obj\Debug\netcoreapp3.1\SmsService.Model.AssemblyInfoInputs.cache
+C:\Users\Jarek\Documents\Projects\SmsService\SmsService.DAL\obj\Debug\netcoreapp3.1\SmsService.Model.AssemblyInfo.cs
+C:\Users\Jarek\Documents\Projects\SmsService\SmsService.DAL\obj\Debug\netcoreapp3.1\SmsService.Model.dll
+C:\Users\Jarek\Documents\Projects\SmsService\SmsService.DAL\obj\Debug\netcoreapp3.1\SmsService.Model.pdb
+C:\Users\Jarek\Documents\Projects\SmsService\SmsService.DAL\obj\Debug\netcoreapp3.1\SmsService.Model.genruntimeconfig.cache
+C:\Users\Jarek\Documents\Projects\SmsService\SmsService.DAL\obj\Debug\netcoreapp3.1\SmsService.Model.csproj.CoreCompileInputs.cache
