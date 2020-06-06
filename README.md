@@ -1,6 +1,6 @@
 # SmsService
 
-Configuration for Docker with Windows:
+Configuration with Docker for Windows:
 
 1. Creade folder named DockerShared on C partition.
 2. Go to Docker for Windows settings -> Resources -> File sharing and add C: and C:/DockerShared. Restart Docker for Windows
