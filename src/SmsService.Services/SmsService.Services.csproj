@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\SmsService.DAL\SmsService.Model.csproj" />
+    <ProjectReference Include="..\SmsService.DAL\SmsService.Model.csproj" />
   </ItemGroup>
 
 </Project>

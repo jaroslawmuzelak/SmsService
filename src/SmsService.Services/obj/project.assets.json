@@ -1748,8 +1748,8 @@
     },
     "SmsService.Model/1.0.0": {
       "type": "project",
-      "path": "../../SmsService.DAL/SmsService.Model.csproj",
-      "msbuildProject": "../../SmsService.DAL/SmsService.Model.csproj"
+      "path": "../SmsService.DAL/SmsService.Model.csproj",
+      "msbuildProject": "../SmsService.DAL/SmsService.Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1789,6 +1789,9 @@
           "projectReferences": {
             "C:\\Users\\Jarek\\Documents\\Projects\\SmsService\\SmsService.DAL\\SmsService.Model.csproj": {
               "projectPath": "C:\\Users\\Jarek\\Documents\\Projects\\SmsService\\SmsService.DAL\\SmsService.Model.csproj"
+            },
+            "C:\\Users\\Jarek\\Documents\\Projects\\SmsService\\src\\SmsService.DAL\\SmsService.Model.csproj": {
+              "projectPath": "C:\\Users\\Jarek\\Documents\\Projects\\SmsService\\src\\SmsService.DAL\\SmsService.Model.csproj"
             }
           }
         }

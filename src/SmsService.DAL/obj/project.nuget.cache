@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c0JRVULMLl2k1Vv0tsoWfLWMox9mNmVgH1xnRTX0BF6VqFjjU6srpQXgvaMrSsvUrRDGw4mATMzOAFpca69dgw==",
+  "dgSpecHash": "HqCHBLV6WcsG8yhtSKzCnn3m/dBF/jQRwV+PX1eyN+lBqzSIkLUPGyz7dAb/qJ0R8S7LrK2MQaKAs39qBlJcLA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jarek\\Documents\\Projects\\SmsService\\SmsService.DAL\\SmsService.Model.csproj",
+  "projectFilePath": "C:\\Users\\Jarek\\Documents\\Projects\\SmsService\\src\\SmsService.DAL\\SmsService.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jarek\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Jarek\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

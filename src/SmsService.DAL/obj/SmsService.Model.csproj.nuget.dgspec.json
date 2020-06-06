@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jarek\\Documents\\Projects\\SmsService\\SmsService.DAL\\SmsService.Model.csproj": {}
+    "C:\\Users\\Jarek\\Documents\\Projects\\SmsService\\src\\SmsService.DAL\\SmsService.Model.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jarek\\Documents\\Projects\\SmsService\\SmsService.DAL\\SmsService.Model.csproj": {
+    "C:\\Users\\Jarek\\Documents\\Projects\\SmsService\\src\\SmsService.DAL\\SmsService.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jarek\\Documents\\Projects\\SmsService\\SmsService.DAL\\SmsService.Model.csproj",
+        "projectUniqueName": "C:\\Users\\Jarek\\Documents\\Projects\\SmsService\\src\\SmsService.DAL\\SmsService.Model.csproj",
         "projectName": "SmsService.Model",
-        "projectPath": "C:\\Users\\Jarek\\Documents\\Projects\\SmsService\\SmsService.DAL\\SmsService.Model.csproj",
+        "projectPath": "C:\\Users\\Jarek\\Documents\\Projects\\SmsService\\src\\SmsService.DAL\\SmsService.Model.csproj",
         "packagesPath": "C:\\Users\\Jarek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jarek\\Documents\\Projects\\SmsService\\SmsService.DAL\\obj\\",
+        "outputPath": "C:\\Users\\Jarek\\Documents\\Projects\\SmsService\\src\\SmsService.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jarek\\AppData\\Roaming\\NuGet\\NuGet.Config",

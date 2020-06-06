@@ -2110,8 +2110,8 @@
     },
     "SmsService.Model/1.0.0": {
       "type": "project",
-      "path": "../../SmsService.DAL/SmsService.Model.csproj",
-      "msbuildProject": "../../SmsService.DAL/SmsService.Model.csproj"
+      "path": "../SmsService.DAL/SmsService.Model.csproj",
+      "msbuildProject": "../SmsService.DAL/SmsService.Model.csproj"
     },
     "SmsService.Services/1.0.0": {
       "type": "project",
